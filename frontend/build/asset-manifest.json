@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf119745.css",
+    "main.js": "/static/js/main.b03871fd.js",
+    "static/js/787.f7238150.chunk.js": "/static/js/787.f7238150.chunk.js",
+    "static/media/Foodikha (1).jpg": "/static/media/Foodikha (1).e21a83498a59237ce191.jpg",
+    "static/media/3.jpg": "/static/media/3.1715bc91c44cf98baa77.jpg",
+    "static/media/Foodikha_event.png": "/static/media/Foodikha_event.814f03c801f69e6272dd.png",
+    "index.html": "/index.html",
+    "main.bf119745.css.map": "/static/css/main.bf119745.css.map",
+    "main.b03871fd.js.map": "/static/js/main.b03871fd.js.map",
+    "787.f7238150.chunk.js.map": "/static/js/787.f7238150.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf119745.css",
+    "static/js/main.b03871fd.js"
+  ]
+}
